@@ -10,9 +10,9 @@
  *************************************/
 #include <stdio.h>
 int main(){
-    int n,i,j,k;
+    int n,i,j,k,count;
     int arr[10],c[10],last[10];
-    int count =0;
+    count =0;
     printf("Problem\nWrite a C program that takes n number of positive integers.");
     printf("\nFind the integer that appears the least number of times among the ");    
     printf("\nsaid integers. If there are multiple such integers,\nselect the smallest one.");       
