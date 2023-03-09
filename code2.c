@@ -15,6 +15,7 @@ Sample Date:
 #include<string.h>
 int main()
 {
+    //hello
     char string[30];
     int n1,n2,i;
     printf("/t/tProblem\n\n");
