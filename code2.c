@@ -27,6 +27,7 @@ int main()
     scanf("%d",&n1);
     printf("n2 : ");
     scanf("%d",&n2);
+    //hi
 
     //code
     char buff[30];
